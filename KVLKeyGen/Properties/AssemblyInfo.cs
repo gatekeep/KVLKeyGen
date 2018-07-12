@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KVLKeyGen")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("KVL T3011DX DES Key Generator")]
+[assembly: AssemblyDescription("KVL T3011DX DES Key Generator")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KVLKeyGen")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCompany("Bryan Biedenkapp")]
+[assembly: AssemblyProduct("Callsign WACN/System ID Encoder/Decoder")]
+[assembly: AssemblyCopyright("Copyright (c) 2018 Bryan Biedenkapp 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
